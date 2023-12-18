@@ -1,0 +1,17 @@
+.flexCenterColumn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.flexCenterColumnRow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.m10{
+    margin: 10px;
+}
